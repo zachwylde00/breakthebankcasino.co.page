@@ -1,0 +1,2389 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>بت٤٥ معتبرترين سايت پيشبيني در ايران</title>
+    <meta charset="utf-8" />
+	<meta name="keywords" content="پيش بينى فوتبال، شرطبندى، سايت شرط بندى، شرطبندى آنلاين، پيش بينى ورزشى، شرط بندى آنلاين، كازينو، كازينو آنلاين، پوكر، تخته نرد، بلك جك، ٢١، پاسور، رولت، رولت اوروپايى، رولن آنلاين، پوكر آنلاين، اسلات ماشين، سايت بازى، " />
+	<meta name="description" content="بزرگترین مرکز پیش بینی ورزشی و کازینو آنلاین" />    
+	<meta name="robots" content="noindex" />
+	<meta name="viewport" content="width=1200, initial-scale=0.01" />	<meta name="format-detection" content="telephone=no">
+    <link href="/alive/assets/icons/favicon.png?0" rel="shortcut icon" type="image/x-icon" />
+	<link href="/alive/assets/css/normalize.css" rel="stylesheet" />
+	<link href="/alive/assets/plugin/sweetalert2/sweetalert2.min.css" rel="stylesheet" />
+	<link href="/alive/assets/css/theme7.style.rtl.css?000.012" rel="stylesheet" />
+	    <script type="text/javascript" src="/alive/assets/js/jquery.js"></script>
+  	<script type="text/javascript" src="/alive/assets/js/jquery.inputmask.bundle.js"></script>
+    <script type="text/javascript" src="/alive/assets/plugin/sweetalert2/sweetalert2.min.js"></script>
+	<script type="text/javascript">
+		var pers_num  = true;
+		var m_format  = [0,'.',','];
+		var b_setting = {'maxbet':15,'maxwin':1000000000,'maxrate':100};
+		var direction = "rtl";
+		var language  = JSON.parse(decodeURIComponent("%7B%22ok%22%3A%22%5Cu062a%5Cu0627%5Cu06cc%5Cu06cc%5Cu062f%22%2C%22cancel%22%3A%22%5Cu0644%5Cu063a%5Cu0648%22%2C%22odd_changed%22%3A%22%5Cu0627%5Cu06cc%5Cu0646%20%5Cu0636%5Cu0631%5Cu06cc%5Cu0628%20%5Cu0641%5Cu0639%5Cu0627%5Cu0644%20%5Cu0646%5Cu0645%5Cu06cc%20%5Cu0628%5Cu0627%5Cu0634%5Cu062f%22%2C%22bet_split_amount%22%3A%22%7Bcount%7D%20%5Cu0645%5Cu0628%5Cu0644%5Cu063a%20%28x%7Btimes%7D%29%22%2C%22bet_split_amounts%22%3A%22%7Bcount%7D%20%5Cu0633%5Cu06cc%5Cu0633%5Cu062a%5Cu0645%20%28x%7Btimes%7D%29%22%2C%22bet_split_total_rate%22%3A%22%5Cu0636%5Cu0631%5Cu06cc%5Cu0628%20%5Cu06a9%5Cu0644%20%7Bamount%7D%22%2C%22bet_slip_wait%22%3A%22%5Cu0644%5Cu0637%5Cu0641%5Cu0627%20%5Cu0645%5Cu0646%5Cu062a%5Cu0638%5Cu0631%20%5Cu0628%5Cu0645%5Cu0627%5Cu0646%5Cu06cc%5Cu062f%22%2C%22bet_slip_cash%22%3A%22%5Cu062a%5Cu0648%5Cu0645%5Cu0627%5Cu0646%20%7Bamount%7D%20%5Cu0648%5Cu062c%5Cu0647%22%2C%22bet_slip_bonus%22%3A%22%5Cu062a%5Cu0648%5Cu0645%5Cu0627%5Cu0646%20%7Bamount%7D%20%5Cu0647%5Cu062f%5Cu06cc%5Cu0647%22%2C%22bonus_del_confirm%22%3A%22%5Cu0622%5Cu06cc%5Cu0627%20%5Cu0645%5Cu0637%5Cu0645%5Cu0626%5Cu0646%20%5Cu0647%5Cu0633%5Cu062a%5Cu06cc%5Cu062f%20%5Cu061f%22%2C%22bonus_del_change%22%3A%22%5Cu062f%5Cu0631%20%5Cu0635%5Cu0648%5Cu0631%5Cu062a%20%5Cu0641%5Cu0639%5Cu0627%5Cu0644%20%5Cu0633%5Cu0627%5Cu0632%5Cu06cc%20%5Cu0627%5Cu06cc%5Cu0646%20%5Cu0637%5Cu0631%5Cu062d%20%5Cu0647%5Cu062f%5Cu06cc%5Cu0647%5Cu060c%20%5Cu0637%5Cu0631%5Cu062d%20%5Cu0642%5Cu0628%5Cu0644%5Cu06cc%20%5Cu063a%5Cu06cc%5Cu0631%20%5Cu0641%5Cu0639%5Cu0627%5Cu0644%20%5Cu0645%5Cu06cc%20%5Cu0634%5Cu0648%5Cu062f%22%2C%22bonus_del_yes%22%3A%22%5Cu0628%5Cu0644%5Cu0647%22%7D"));
+	</script>
+    <script type="text/javascript" src="/alive/assets/js/script.js?1000.009"></script>
+    <script type="text/javascript" src="/alive/assets/js/data.js?1000.035"></script>
+    <script type="text/javascript" src="/alive/assets/js/bet.js?1000.003"></script>
+    
+    
+    
+    <style>
+
+    				body { background: #149b7f !important; }
+			.header-sub { border-top: 1px solid #149b7f !important; }
+			.page-content .page-area .page-title { border-bottom: 1px solid #149b7f !important; }
+			.item-box .title div, .item-2-box .title div { border-top: 1px solid #149b7f !important; }
+			.event-container .border { background: #149b7f !important; }
+			.frame-background { background: #149b7f !important; }
+			.header-main-center { background: #149b7f !important; }
+			.header-top { background: #149b7f !important; }
+			.top-bar { background: #149b7f !important; }
+			.mobile-bar { background: #149b7f !important; }
+			.mobile-footer-bar { background: #149b7f !important; }
+		
+					.header .login { background: #999999 !important; }
+			.header-sub { background: #999999 !important; }
+			.footer { background: #999999 !important; }
+			.static-menu .link-container { background: #999999 !important; }
+			.form-container { background: #999999 !important; }
+			.left-bar .menu-container { background: #999999 !important; }
+			.event-container .categories { background: #999999 !important; }
+			.events-holder { background: #999999 !important; border-top: 1px solid #999999 !important; }
+			.event-container .block { background: #999999 !important; }
+			.right-bar .title { background: #999999 !important; }
+			.left-bar .title { background: #999999 !important; }
+		
+					.mobile-menu .button2 { background: #f2c906 !important; }
+			.header .balance { color: #f2c906 !important; }
+			.header .signup { background: #f2c906 !important; }
+			.header-sub .litem:hover, .header-sub .liact { border-bottom: 2px solid #f2c906 !important; }
+			.right-bar .title { color: #f2c906 !important; }
+			.c-main { color: #f2c906 !important; } 
+			.c-orange { color: #f2c906 !important; }
+			.text-content-page a { color: #f2c906 !important; }
+			.top-bar a:hover, .top-bar .active { color: #f2c906 !important; }
+			.page-content .page-area .page-title { color: #f2c906 !important; }
+			.form-container .form-button { background: #f2c906 !important; }
+			.left-bar .title { color: #f2c906 !important; }
+			.event-container .categorie:hover, .event-container .scategory { border-bottom: 2px solid #f2c906 !important; }
+			.event-type .title .yellow { color: #f2c906 !important; }
+			.sport-live-container .active div { color: #f2c906 !important; }
+			.sport-live-container .sport-categories-left-link:hover div { color: #f2c906 !important; }
+			.score-type .title { color: #f2c906 !important; }
+			.score-type .title .yellow { color: #f2c906 !important; }
+			.score-type .score-container .score { color: #f2c906 !important; }
+			.score-type .score-container .time { color: #f2c906 !important; }
+			.market-type .title { color: #f2c906 !important; }
+			.data-table td, .data-table th { color: #f2c906 !important; }
+			.data-sub-container { border-top: 4px solid #f2c906 !important; }
+			.slip-container { background: #f2c906 !important; }
+			.slip-container .buttons { background: #f2c906 !important; }
+			.slip-container .slip-title { border-bottom: 2px solid #f2c906 !important; }
+			.slip-container .amount-input { background: #f2c906 !important; }
+			.stream-bar .title { background: #f2c906 !important; }
+		
+    </style> 
+
+   	
+</head>
+
+
+<body>
+
+	<center class="header-main-center">
+		<div class="header-top header desktop">
+			<center>
+				<div class="mr20">
+					<div class="right language-selector">
+						<div class="language-box">
+							<a href="javascript:;" data="en"><img src="/alive/assets/icons/flags/en.png?1"></a>						</div>
+					</div>
+										<div class="right language-selector-link language-caret">
+						<span class="fa fa-caret-down"></span>
+					</div>
+					<div class="right">
+						<a href="javascript:;" class="link language language-selector-link"><img src="/alive/assets/icons/flags/fa.png?1"></a>
+					</div>
+										<div class="right mt5">
+													<a href="/user/signup" class="link signup">ثبت نام</a>
+							<a href="/user/login" class="link login">ورود به حساب کاربری</a>
+											</div>
+										<div class="clear"></div>
+				</div>
+			</center>
+		</div>
+
+		<div class="header header-wrapper mr20 mb10 desktop">
+			<div class="left"><a href="/"><img src="/image/aHR0cDovL2NsMDBmaWxlcy5zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9hc3NldHMvMjAxODExLzE1NDMyOTY1NjEtNjI5Ny0xOTAwLnBuZ0AwNjk0ZTYxNWJhNDM1ZWIyYjBjMmQxMjJkNmU5YmIyNw%3D%3D"></a></div>
+			<div class="left top-bar-wrapper">
+				<div class="top-bar desktop">
+					<div class="container inline">
+												<a href="/sport/prematch" class="">پیش بینی ورزشی</a>
+						<a href="/sport/live" class="live-tab active">پیش بینی زنده</a>
+						<a href="/sport/scores" class="">نتایج زنده</a>
+												<a href="/casino/index" class="">کازینو آنلاین</a>
+						<a href="/support/index" class="">پشتیبانی</a>
+						<a href="/content/help" class="">راهنما</a>
+					</div>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+
+		<div class="header header-sub desktop">
+			<div class="mr20">
+				<a href="/casino/poker" class="litem ">پوکر</a>				<a href="/casino/backgammon" class="litem ">تخته نرد</a>								<a href="/casino/crash" class="litem ">انفجار</a>				<a href="/casino/hokm" class="litem ">حکم</a>				<a href="/casino/pasoor" class="litem ">پاسور</a>				<a href="/casino/roulette" class="litem ">رولت</a>				<a href="/casino/rps" class="litem ">سنگ کاغذ قیچی</a>				<a href="/casino/blackjack" class="litem ">بلک جک ۲۱</a>			</div>
+		</div>
+
+		<div class="header container mobile mobile-bar">
+			<div class="icon"><a href="javascript:;" class="mobile-menu-action fa fa-bars"></a></div>
+			<div class="icon"></div>
+			<div class="logo"><a href="/default"><img src="/image/aHR0cDovL2NsMDBmaWxlcy5zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9hc3NldHMvMjAxODExLzE1NDMyOTY1NjEtNjI5Ny0xOTAwLnBuZ0AwNjk0ZTYxNWJhNDM1ZWIyYjBjMmQxMjJkNmU5YmIyNw%3D%3D" height="40"></a></div>
+			<div class="icon"><a href="javascript:;" class="mobile-menu-filter-action fa fa-filter"></a></div>
+			<div class="icon"><a href="javascript:;" class="mobile-menu-bet-action fa fa-file-text-o"></a></div>
+			<div class="badge slip-count-badge">0</div>			<div class="clear"></div>
+		</div>
+		<div class="mobile mobile-bar-holder"></div>
+
+	</center>
+
+	<div class="mobile-menu mobile">
+
+		
+		<div class="buttons">
+			<a href="/user/login" class="button1">ورود به حساب کاربری</a>
+			<a href="/user/signup" class="button2">ثبت نام</a>
+		</div>
+
+				<div align="center">
+			<a href="javascript:;" class="language-selector-link"><img src="/alive/assets/icons/flags/fa.png?1"></a>
+		</div>
+		
+		<div class="language-selector language-box">
+			<a href="javascript:;" data="en"><img src="/alive/assets/icons/flags/en.png?1"></a>		</div>
+
+		
+		<div class="items">
+						<a href="/sport/prematch">پیش بینی ورزشی</a>
+			<a href="/sport/live">پیش بینی زنده</a>
+			<a href="/sport/scores">نتایج زنده</a>
+						<a href="/casino/poker">پوکر آنلاین</a>			<a href="/casino/backgammon">تخته نرد</a>						<a href="/casino/crash">بازی انفجار</a>			<a href="/casino/hokm">حکم</a>			<a href="/casino/pasoor">پاسور</a>			<a href="/casino/index">کازینو آنلاین</a>
+			<a href="/content/promotions">بونوس های ویژه</a>			<a href="/support/index">پشتیبانی</a>
+			<a href="/content/help">راهنما</a>
+		</div>
+
+	</div>
+
+	<center>
+		<div class="container">
+
+
+
+
+		
+	<div class="page-content">
+		
+		<div class="w100 page-area inline">
+
+			
+			<div class="left left-bar rear-bar-mobile mobile-left-menu">
+
+				<div class="other-bars mt5">
+
+															
+					
+					
+					
+					<a href="javascript:;" class="title box-title-action c-white" data-box="box-100001"><span class="fa fa-angle-down"></span> بازی های مهم زنده</a>
+					<div class="menu-container sport-live-container box-100001">
+						
+							<a href="javascript:;" data="1" data-link="/sport/live?sport=1" class="link sport-categories-left-link active">
+												<div class="left icon"><i class="sfn sfn-1"></i></div>
+												<div class="left ml5">
+													<div class="left">فوتبال</div>
+													<!--<div class="left ml5 fs12 mt3 bold">(۲۰)</div>-->
+													<div class="clear"></div>
+												</div>
+												<div class="clear"></div>
+											</a>
+										<div class="sport-categories-left sport-categories-left-1 ">
+											<div class="event-type rear-menu-side">
+												
+												<div class="odd-container">
+																										<div class="event-row event-10000014895185">
+														<a href="/sport/event?id=10000014895185&type=live" class="event-title">
+															<div class="left home-team">جان رگنسبرگ</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">گروتر فورث</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																									</div>
+											</div>
+										</div>
+										
+										
+										<div class="sport-categories-left sport-categories-left-1 ">
+											<div class="event-type rear-menu-side">
+												
+												<div class="odd-container">
+																										<div class="event-row event-10000016647457">
+														<a href="/sport/event?id=10000016647457&type=live" class="event-title">
+															<div class="left home-team">جانگ گو اهد ایگلز</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">اس بی وی اکسلسیور</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																									</div>
+											</div>
+										</div>
+										
+										
+										<div class="sport-categories-left sport-categories-left-1 ">
+											<div class="event-type rear-menu-side">
+												
+												<div class="odd-container">
+																										<div class="event-row event-10000017611501">
+														<a href="/sport/event?id=10000017611501&type=live" class="event-title">
+															<div class="left home-team">یاپانکوی</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">کلای پول</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																									</div>
+											</div>
+										</div>
+										
+										
+										<div class="sport-categories-left sport-categories-left-1 ">
+											<div class="event-type rear-menu-side">
+												
+												<div class="odd-container">
+																										<div class="event-row event-10000016779783">
+														<a href="/sport/event?id=10000016779783&type=live" class="event-title">
+															<div class="left home-team">Hapoel Bnei Musmus</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">مکابی بنی رینا</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																									</div>
+											</div>
+										</div>
+										
+										
+										<div class="sport-categories-left sport-categories-left-1 ">
+											<div class="event-type rear-menu-side">
+												
+												<div class="odd-container">
+																										<div class="event-row event-10000016564681">
+														<a href="/sport/event?id=10000016564681&type=live" class="event-title">
+															<div class="left home-team">اندرلخت</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">کا آ آ جنت</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																									</div>
+											</div>
+										</div>
+										
+											<a href="javascript:;" data="2" data-link="/sport/live?sport=2" class="link sport-categories-left-link ">
+												<div class="left icon"><i class="sfn sfn-2"></i></div>
+												<div class="left ml5">
+													<div class="left">بسکتبال</div>
+													<!--<div class="left ml5 fs12 mt3 bold">(۷)</div>-->
+													<div class="clear"></div>
+												</div>
+												<div class="clear"></div>
+											</a>
+										<div class="sport-categories-left sport-categories-left-2 hidden">
+											<div class="event-type rear-menu-side">
+												
+												<div class="odd-container">
+																										<div class="event-row event-10000015887352">
+														<a href="/sport/event?id=10000015887352&type=live" class="event-title">
+															<div class="left home-team">Hapoel Beer Sheva</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">هاپوئل ایلات</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																										<div class="event-row event-10000015887348">
+														<a href="/sport/event?id=10000015887348&type=live" class="event-title">
+															<div class="left home-team">هاپوئل تل آویو </div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">مکابی آشدود</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																										<div class="event-row event-10000015887344">
+														<a href="/sport/event?id=10000015887344&type=live" class="event-title">
+															<div class="left home-team">گلیل گیلبوا</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">مکابی ریشون لی زیون</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																									</div>
+											</div>
+										</div>
+										
+										
+										<div class="sport-categories-left sport-categories-left-2 hidden">
+											<div class="event-type rear-menu-side">
+												
+												<div class="odd-container">
+																										<div class="event-row event-10000015496710">
+														<a href="/sport/event?id=10000015496710&type=live" class="event-title">
+															<div class="left home-team">بروس بامبرگ</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">برمنهاون</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																									</div>
+											</div>
+										</div>
+										
+										
+										<div class="sport-categories-left sport-categories-left-2 hidden">
+											<div class="event-type rear-menu-side">
+												
+												<div class="odd-container">
+																										<div class="event-row event-10000015742564">
+														<a href="/sport/event?id=10000015742564&type=live" class="event-title">
+															<div class="left home-team">آونس میلون</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">کاللیداز</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																									</div>
+											</div>
+										</div>
+										
+											<a href="javascript:;" data="23" data-link="/sport/live?sport=23" class="link sport-categories-left-link ">
+												<div class="left icon"><i class="sfn sfn-23"></i></div>
+												<div class="left ml5">
+													<div class="left">والیبال</div>
+													<!--<div class="left ml5 fs12 mt3 bold">(۲)</div>-->
+													<div class="clear"></div>
+												</div>
+												<div class="clear"></div>
+											</a>
+										<div class="sport-categories-left sport-categories-left-23 hidden">
+											<div class="event-type rear-menu-side">
+												
+												<div class="odd-container">
+																										<div class="event-row event-10000016657237">
+														<a href="/sport/event?id=10000016657237&type=live" class="event-title">
+															<div class="left home-team">Belmont Abbey Crusaders</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">Njit Highlanders</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																									</div>
+											</div>
+										</div>
+										
+										
+										<div class="sport-categories-left sport-categories-left-23 hidden">
+											<div class="event-type rear-menu-side">
+												
+												<div class="odd-container">
+																										<div class="event-row event-10000017479489">
+														<a href="/sport/event?id=10000017479489&type=live" class="event-title">
+															<div class="left home-team">ایمپل وروکلاو</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">کی‌اس دولوپرس رزسزوو</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																									</div>
+											</div>
+										</div>
+										
+											<a href="javascript:;" data="5" data-link="/sport/live?sport=5" class="link sport-categories-left-link ">
+												<div class="left icon"><i class="sfn sfn-5"></i></div>
+												<div class="left ml5">
+													<div class="left">تنیس</div>
+													<!--<div class="left ml5 fs12 mt3 bold">(۲)</div>-->
+													<div class="clear"></div>
+												</div>
+												<div class="clear"></div>
+											</a>
+										<div class="sport-categories-left sport-categories-left-5 hidden">
+											<div class="event-type rear-menu-side">
+												
+												<div class="odd-container">
+																										<div class="event-row event-10000017693750">
+														<a href="/sport/event?id=10000017693750&type=live" class="event-title">
+															<div class="left home-team">Mikael Torpegaard</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">دانیل ماسور</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																									</div>
+											</div>
+										</div>
+										
+										
+										<div class="sport-categories-left sport-categories-left-5 hidden">
+											<div class="event-type rear-menu-side">
+												
+												<div class="odd-container">
+																										<div class="event-row event-10000017695002">
+														<a href="/sport/event?id=10000017695002&type=live" class="event-title">
+															<div class="left home-team">بوچارد</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">هیبینو</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																									</div>
+											</div>
+										</div>
+										
+											<a href="javascript:;" data="4" data-link="/sport/live?sport=4" class="link sport-categories-left-link ">
+												<div class="left icon"><i class="sfn sfn-4"></i></div>
+												<div class="left ml5">
+													<div class="left">هاکی روی یخ</div>
+													<!--<div class="left ml5 fs12 mt3 bold">(۶)</div>-->
+													<div class="clear"></div>
+												</div>
+												<div class="clear"></div>
+											</a>
+										<div class="sport-categories-left sport-categories-left-4 hidden">
+											<div class="event-type rear-menu-side">
+												
+												<div class="odd-container">
+																										<div class="event-row event-10000017601863">
+														<a href="/sport/event?id=10000017601863&type=live" class="event-title">
+															<div class="left home-team">هاکی</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">واسترویک</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																										<div class="event-row event-10000017601865">
+														<a href="/sport/event?id=10000017601865&type=live" class="event-title">
+															<div class="left home-team">Karlskrona HK</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">لکساندس آی اف</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																										<div class="event-row event-10000017601867">
+														<a href="/sport/event?id=10000017601867&type=live" class="event-title">
+															<div class="left home-team">بوفوس کالرسگور</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">واسترز</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																									</div>
+											</div>
+										</div>
+										
+										
+										<div class="sport-categories-left sport-categories-left-4 hidden">
+											<div class="event-type rear-menu-side">
+												
+												<div class="odd-container">
+																										<div class="event-row event-10000017679318">
+														<a href="/sport/event?id=10000017679318&type=live" class="event-title">
+															<div class="left home-team">روگل بی کی</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">هو ۷۱</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																										<div class="event-row event-10000017679070">
+														<a href="/sport/event?id=10000017679070&type=live" class="event-title">
+															<div class="left home-team">اوربرو</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">واکسجو لاکرز</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																									</div>
+											</div>
+										</div>
+										
+											<a href="javascript:;" data="6" data-link="/sport/live?sport=6" class="link sport-categories-left-link ">
+												<div class="left icon"><i class="sfn sfn-6"></i></div>
+												<div class="left ml5">
+													<div class="left">هندبال</div>
+													<!--<div class="left ml5 fs12 mt3 bold">(۷)</div>-->
+													<div class="clear"></div>
+												</div>
+												<div class="clear"></div>
+											</a>
+										<div class="sport-categories-left sport-categories-left-6 hidden">
+											<div class="event-type rear-menu-side">
+												
+												<div class="odd-container">
+																										<div class="event-row event-10000015439444">
+														<a href="/sport/event?id=10000015439444&type=live" class="event-title">
+															<div class="left home-team">والور ریکجاویک</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">وس لبیو</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																									</div>
+											</div>
+										</div>
+										
+										
+										<div class="sport-categories-left sport-categories-left-6 hidden">
+											<div class="event-type rear-menu-side">
+												
+												<div class="odd-container">
+																										<div class="event-row event-10000016553233">
+														<a href="/sport/event?id=10000016553233&type=live" class="event-title">
+															<div class="left home-team">AIK</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">کریستیناستاد</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																										<div class="event-row event-10000016553237">
+														<a href="/sport/event?id=10000016553237&type=live" class="event-title">
+															<div class="left home-team">مالمو</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">اسکووده</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																										<div class="event-row event-10000016553241">
+														<a href="/sport/event?id=10000016553241&type=live" class="event-title">
+															<div class="left home-team">ردبرگسلید</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">لوگی اچ اف</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																										<div class="event-row event-10000016553239">
+														<a href="/sport/event?id=10000016553239&type=live" class="event-title">
+															<div class="left home-team">گیف</div>
+															<div class="left score home-score">..</div>
+															<div class="left score score-seperator">:</div>
+															<div class="left score away-score">..</div>
+															<div class="left away-team">IFK Ystad HK</div>
+															<div class="clear"></div>
+														</a>
+														<div class="clear"></div>
+														<span class="event-odds">
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+															<a href="javascript:;" class="odd-rate passive">...</a>
+														</span>
+														<div class="clear"></div>
+													</div>
+																									</div>
+											</div>
+										</div>
+										
+										
+						<div class="clear"></div>
+
+					</div>
+
+					<script>
+						var lsscid = "1";
+						$(document).ready(function() {
+							$(".sport-categories-left-link").click(function() {
+								$(".sport-categories-left-link").each(function() { $(this).removeClass("active"); });
+								$(".sport-categories-left").hide();
+								var data = $(this).attr("data");
+								if(data==lsscid)
+								{
+									lsscid = "";
+									return false;
+								}
+								lsscid = data;
+								$(this).addClass("active");
+								$(".sport-categories-left-"+data).fadeIn();
+							});
+						});
+					</script>
+
+					
+					
+				</div>
+
+				<div class="">
+				
+					<a href="/casino/pasoor"><img src="/image/aHR0cDovL2NsMDBmaWxlcy5zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9iYW5uZXJzLzIwMTgxMS8xNTQyOTgwOTI2LTgwOTYtNjA2Mi5qcGdAOWY1NDBmZGVkOWRiNjYyZTNjOTgwNDVkNDBkNmFiZTc%3D" width="100%" class="mt10" style="display: block;"></a><a href="/casino/poker"><img src="/image/aHR0cDovL2NsMDBmaWxlcy5zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9iYW5uZXJzLzIwMTgxMS8xNTQyOTgwOTQ3LTIzOTItOTM0MC5qcGdAY2YwZWIzN2U2NWY5ZTEzMDRjN2ZjNGMyNGE1NzA5YWM%3D" width="100%" class="mt10" style="display: block;"></a><a href="/casino/hokm"><img src="/image/aHR0cDovL2NsMDBmaWxlcy5zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9iYW5uZXJzLzIwMTgxMS8xNTQyOTgxMDU1LTExNjAtNDk3OC5qcGdAZTFiYWQxZGE1MWNiZTdhNmNjZDQ4Y2UwMzJhZTZmMWQ%3D" width="100%" class="mt10" style="display: block;"></a><a href="/casino/backgammon"><img src="/image/aHR0cDovL2NsMDBmaWxlcy5zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9iYW5uZXJzLzIwMTgxMS8xNTQyOTgwODA0LTc0NDctNjAyNC5qcGdAZTc5YjY1NzRmM2EyYjBlNGU3NTU0NDk2YmYxZmIzNzY%3D" width="100%" class="mt10" style="display: block;"></a><a href="/casino/rps"><img src="/image/aHR0cDovL2NsMDBmaWxlcy5zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9iYW5uZXJzLzIwMTgxMS8xNTQyOTgwOTkxLTY0MTEtMTM5Ni5qcGdANmVhYTlhOTJmZTZkZGE2OGM2ZDdjZjYxZWExMWFlYTQ%3D" width="100%" class="mt10" style="display: block;"></a><a href="/casino/roulette"><img src="/image/aHR0cDovL2NsMDBmaWxlcy5zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9iYW5uZXJzLzIwMTgxMS8xNTQyOTgwOTYyLTQ0MzUtMjEzMi5qcGdAZjM2YmZjNGFmOTBmOWI1OGE1OTZhNjUxNjQ2Njc4MzA%3D" width="100%" class="mt10" style="display: block;"></a>				
+				</div>			
+
+				<div class="desktop">
+									</div>
+
+			</div>
+			<div class="event-container left">
+
+				<div class="block">
+					<span class="fa fa-angle-down"></span> پیش بینی زنده				</div>
+
+				<div class="categories">
+					<a href="javascript:;" data="1" class="categorie-link categorie scategory"><div><i class="sfn sfn-1"></i></div><div class="name">فوتبال</div></a><a href="javascript:;" data="2" class="categorie-link categorie "><div><i class="sfn sfn-2"></i></div><div class="name">بسکتبال</div></a><a href="javascript:;" data="23" class="categorie-link categorie "><div><i class="sfn sfn-23"></i></div><div class="name">والیبال</div></a><a href="javascript:;" data="5" class="categorie-link categorie "><div><i class="sfn sfn-5"></i></div><div class="name">تنیس</div></a><a href="javascript:;" data="4" class="categorie-link categorie "><div><i class="sfn sfn-4"></i></div><div class="name">هاکی روی یخ</div></a><a href="javascript:;" data="6" class="categorie-link categorie "><div><i class="sfn sfn-6"></i></div><div class="name">هندبال</div></a>				</div>
+
+				<script>
+					$(document).ready(function() {
+						$(".categorie-link").click(function() {
+							$(".scategory").removeClass("scategory");
+							$(this).addClass("scategory");
+							var sid = $(this).attr("data");
+							$(".sport-categories").hide();
+							$(".sport-categories-"+sid).fadeIn();
+						});
+						$(".show-all-categories").click(function() {
+							$(".categories").remove();
+							$(".show-all-categories").parent().remove();
+							$(".sport-categories").fadeIn();
+						});
+											});
+				</script>
+
+				<div class="events-holder">
+					
+					<div class="search-div"><span class="fa fa-search"></span><input type="text" id="search-box" placeholder="جستجو"></div>
+					<div class="mt10 fs0">&nbsp;</div>
+
+										
+						<div class="sport-categories sport-categories-1 ">
+							<div class="event-type ">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-1"></i>&nbsp; <span style="font-weight: 500;">آلمان</span> بوندسلیگا</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000014895185">
+										<a href="/sport/event?id=10000014895185&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">جان رگنسبرگ</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">گروتر فورث</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000014895185&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-1 ">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-1"></i>&nbsp; <span style="font-weight: 500;">هلند</span> Reservecompetitie, 2nd Phase, Group B</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000016647457">
+										<a href="/sport/event?id=10000016647457&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">جانگ گو اهد ایگلز</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">اس بی وی اکسلسیور</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016647457&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-1 ">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-1"></i>&nbsp; <span style="font-weight: 500;">آرژانتین</span> برتر ب متروپولیتانا</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000017611501">
+										<a href="/sport/event?id=10000017611501&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">یاپانکوی</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">کلای پول</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000017611501&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-1 ">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-1"></i>&nbsp; <span style="font-weight: 500;">اسرائيل</span> لیگ شرطبندی شمال ب</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000016779783">
+										<a href="/sport/event?id=10000016779783&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">Hapoel Bnei Musmus</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">مکابی بنی رینا</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016779783&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-1 ">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-1"></i>&nbsp; <span style="font-weight: 500;">بلژیک</span> لیگ ذخیره 1 الف , گروه 1</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000016564681">
+										<a href="/sport/event?id=10000016564681&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">اندرلخت</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">کا آ آ جنت</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016564681&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-1 ">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-1"></i>&nbsp; <span style="font-weight: 500;">آرژانتین</span> برتر سی</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000015495724">
+										<a href="/sport/event?id=10000015495724&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">اسپورتیو ایتالیا</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">پوروینر</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000015495724&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-1 ">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-1"></i>&nbsp; <span style="font-weight: 500;">ایتالیا</span> سری د , جیرونه اف</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000015659548">
+										<a href="/sport/event?id=10000015659548&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">Asd Savignanese 1932</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">Asd Romagna Centro Cesena</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000015659548&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-1 ">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-1"></i>&nbsp; <span style="font-weight: 500;">آلمان</span> لیگ</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000014934789">
+										<a href="/sport/event?id=10000014934789&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">هنسا روستوک</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">هالسچر</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000014934789&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-1 ">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-1"></i>&nbsp; <span style="font-weight: 500;">آلمان آماتور</span> لیگ منطقه ای جنوب غربی</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000014937917">
+										<a href="/sport/event?id=10000014937917&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">والهوف مانهیم</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">استاینباچ</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000014937917&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-1 ">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-1"></i>&nbsp; <span style="font-weight: 500;">آرژانتین</span> برتر ب</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000016519787">
+										<a href="/sport/event?id=10000016519787&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">CA All Boys</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">تریستون سوارز</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016519787&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000016519789">
+										<a href="/sport/event?id=10000016519789&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">اتلتیک فنیکس</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">تالرس د رمیدوس د اسکالادا</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016519789&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000016519777">
+										<a href="/sport/event?id=10000016519777&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">سن میگول</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">CSD Flandria</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016519777&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000016519785">
+										<a href="/sport/event?id=10000016519785&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">سان تلمو</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">کلوب اتلتیک آتلانتا</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016519785&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000016519779">
+										<a href="/sport/event?id=10000016519779&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">اورکویزا</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">کلوب اتلتیک آکسوس</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016519779&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000016519791">
+										<a href="/sport/event?id=10000016519791&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">ساکاچیسباس اف سی</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">کمانیکاشز بساس</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016519791&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-1 ">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-1"></i>&nbsp; <span style="font-weight: 500;">رومانی</span> لیگ 1 , مرحله حذفی</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000017571461">
+										<a href="/sport/event?id=10000017571461&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">ولونتاری</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">بوتوسانی</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000017571461&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-1 ">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-1"></i>&nbsp; <span style="font-weight: 500;">بلژیک</span> لیگ ذخیره 1 الف , گروه 2</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000016565069">
+										<a href="/sport/event?id=10000016565069&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">رویال چارلروی اس سی</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">کی وی اوستند</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016565069&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000016565071">
+										<a href="/sport/event?id=10000016565071&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">ترودنس</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">زولت وارگم</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016565071&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000016565067">
+										<a href="/sport/event?id=10000016565067&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">موسکران-پروولز</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">اوپن</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016565067&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000016565065">
+										<a href="/sport/event?id=10000016565065&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">کی وی ار اس وازلند بورن</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">کی وی کورتریک</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016565065&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-2 hidden">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-2"></i>&nbsp; <span style="font-weight: 500;">اسرائيل</span> سوپر جام</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000015887352">
+										<a href="/sport/event?id=10000015887352&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">Hapoel Beer Sheva</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">هاپوئل ایلات</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000015887352&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000015887348">
+										<a href="/sport/event?id=10000015887348&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">هاپوئل تل آویو </div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">مکابی آشدود</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000015887348&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000015887344">
+										<a href="/sport/event?id=10000015887344&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">گلیل گیلبوا</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">مکابی ریشون لی زیون</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000015887344&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-2 hidden">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-2"></i>&nbsp; <span style="font-weight: 500;">آلمان</span> لیگ بسکتبال بریتانیا</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000015496710">
+										<a href="/sport/event?id=10000015496710&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">بروس بامبرگ</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">برمنهاون</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000015496710&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-2 hidden">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-2"></i>&nbsp; <span style="font-weight: 500;">یونان</span> لیگ یک بسکتبال یونان</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000015742564">
+										<a href="/sport/event?id=10000015742564&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">آونس میلون</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">کاللیداز</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000015742564&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000015742562">
+										<a href="/sport/event?id=10000015742562&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">ای او اف پورفیراس</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">ارمیس  پراماتوس</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000015742562&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000015742570">
+										<a href="/sport/event?id=10000015742570&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">آ‌او‌پی فالیروا</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">پیرایکوس سیندسموس</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000015742570&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-23 hidden">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-23"></i>&nbsp; <span style="font-weight: 500;">ایالات متحده آمریکا</span> کالج</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000016657237">
+										<a href="/sport/event?id=10000016657237&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">Belmont Abbey Crusaders</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">Njit Highlanders</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016657237&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-23 hidden">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-23"></i>&nbsp; <span style="font-weight: 500;">لهستان</span> لیگ والیبال هندبال , زنان</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000017479489">
+										<a href="/sport/event?id=10000017479489&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">ایمپل وروکلاو</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">کی‌اس دولوپرس رزسزوو</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000017479489&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-5 hidden">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-5"></i>&nbsp; <span style="font-weight: 500;">چلنجر</span> Lille, France</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000017693750">
+										<a href="/sport/event?id=10000017693750&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">Mikael Torpegaard</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">دانیل ماسور</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000017693750&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-5 hidden">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-5"></i>&nbsp; <span style="font-weight: 500;">WTA</span> Miami, USA, Qualifying</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000017695002">
+										<a href="/sport/event?id=10000017695002&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">بوچارد</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">هیبینو</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000017695002&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-4 hidden">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-4"></i>&nbsp; <span style="font-weight: 500;">سوئد</span> هاکی لیگ سوئد , دور صلاحیت</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000017601863">
+										<a href="/sport/event?id=10000017601863&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">هاکی</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">واسترویک</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000017601863&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000017601865">
+										<a href="/sport/event?id=10000017601865&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">Karlskrona HK</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">لکساندس آی اف</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000017601865&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000017601867">
+										<a href="/sport/event?id=10000017601867&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">بوفوس کالرسگور</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">واسترز</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000017601867&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-6 hidden">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-6"></i>&nbsp; <span style="font-weight: 500;">ایسلند</span> اوروالسدیلد</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000015439444">
+										<a href="/sport/event?id=10000015439444&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">والور ریکجاویک</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">وس لبیو</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000015439444&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-4 hidden">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-4"></i>&nbsp; <span style="font-weight: 500;">سوئد</span> لیگ هاکی سوئد , پلی اف</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000017679318">
+										<a href="/sport/event?id=10000017679318&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">روگل بی کی</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">هو ۷۱</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000017679318&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000017679070">
+										<a href="/sport/event?id=10000017679070&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">اوربرو</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">واکسجو لاکرز</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000017679070&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-4 hidden">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-4"></i>&nbsp; <span style="font-weight: 500;">اسلواکی</span> لیگ برتر هاکی چک , پلی اف</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000017640048">
+										<a href="/sport/event?id=10000017640048&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">نیترا</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">ترنسین</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000017640048&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-6 hidden">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-6"></i>&nbsp; <span style="font-weight: 500;">سوئد</span> سری نخبگان</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000016553233">
+										<a href="/sport/event?id=10000016553233&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">AIK</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">کریستیناستاد</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016553233&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000016553237">
+										<a href="/sport/event?id=10000016553237&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">مالمو</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">اسکووده</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016553237&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000016553241">
+										<a href="/sport/event?id=10000016553241&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">ردبرگسلید</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">لوگی اچ اف</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016553241&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000016553239">
+										<a href="/sport/event?id=10000016553239&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">گیف</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">IFK Ystad HK</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016553239&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																			<div class="event-row event-10000016553235">
+										<a href="/sport/event?id=10000016553235&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">کارسکرونا</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">هاماربی هندبول</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000016553235&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+												
+						<div class="sport-categories sport-categories-6 hidden">
+							<div class="event-type mt10">
+								<div class="title">
+									<div class="text"><span class="yellow"><i class="sfn sfn-6"></i>&nbsp; <span style="font-weight: 500;">جمهوری چک</span> لیگ برتر هاکی چک</span></div>
+									<div class="odd-title">میزبان</div>
+									<div class="odd-title">مساوی</div>
+									<div class="odd-title">میهمان</div>
+									<div class="clear"></div>
+								</div>
+								<div class="odd-container">
+																		<div class="event-row event-10000015244532">
+										<a href="/sport/event?id=10000015244532&type=live" class="event-title">
+											<div class="event-time event-minute">...</div>
+											<div>
+												<div class="left score home-score">..</div>
+												<div class="left home-team">وسلی</div>
+												<div class="clear"></div>
+											</div>
+											<div class="mt3">
+												<div class="left score away-score">..</div>
+												<div class="left away-team">تالنت ام.ای.تی.پلزن</div>
+												<div class="clear"></div>
+											</div>
+											<div class="clear"></div>
+										</a>
+										<span class="event-odds">
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+											<a href="javascript:;" class="odd-rate passive">...</a>
+										</span>
+										<a href="/sport/event?id=10000015244532&type=live" class="odd-all"><span class="fa fa-bar-chart"></span></a>
+										<div class="clear"></div>
+									</div>
+																		</div>
+							</div>
+						</div>
+						
+						
+					<div class="show-all">
+						<a href="javascript:;" class="show-all-categories">تمام بازی های زنده <span class="c-red">۴۴</span></a>
+					</div>
+
+				</div>
+
+			&nbsp;
+			</div>
+
+			
+			<div class="left right-bar rear-bar-mobile mobile-right-menu">
+				
+				<div class="slip-bar mt5">
+					<div class="title">فرم پیش بینی</div>
+					<div class="slip-container" data="normal">
+
+						<div class="no-bet p30">برای پیش بینی، ضریب بازی مورد نظر خود را انتخاب کنید</div>
+
+						<div class="bets-container hidden">
+						
+							<a href="javascript:;" class="slip-title slip-active" data="normal">فرم پیش بینی</a>
+							<a href="javascript:;" class="slip-title" data="system">سیستم</a>
+							<div class="clear"></div>
+
+							<div class="bets-list">
+							</div>
+							
+							<div class="amount-input amount-normal">
+							</div>
+							
+							<div class="amount-input hidden amount-system">
+							</div>
+
+							<div class="amounts">تومان <span class="slip-total-amount">0</span><br>تومان <span class="slip-won-amount">0</span></div>
+
+							<div class="buttons">
+
+								<div class="checkbox pr10"><label><input class="slip-bet-force" type="checkbox"> در صورت تغییر ضریب فرم پیش بینی ثبت شود </label></div>
+
+								
+								<a href="javascript:;" class="delete-slip slip-buttons form-button red-button">پاک کردن</a>
+								<a href="javascript:;" class="play-my-bet slip-buttons form-button">شرطبندی</a>
+								<center><div class="form-loading"></div></center>
+							</div>
+
+						</div>
+
+
+					</div>
+				</div>
+
+				<div class="desktop">
+					<div class="mt10"><a href="https://t.me/bet45" target="_blank"><img src="/image/aHR0cDovL2NsMDBmaWxlcy5zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9iYW5uZXJzLzIwMTgxMS8xNTQyOTgxMTM1LTIyMDQtNTI5Mi5qcGdAZGY3MTg2ZGY4M2I5YjhhYWQ2YjRmZmQ3Nzk1Mzc1ZDE%3D" width="100%"></a></div><div class="mt10"><a href="http://instagram.com/bet45_bet" target="_blank"><img src="/image/aHR0cDovL2NsMDBmaWxlcy5zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9iYW5uZXJzLzIwMTgxMS8xNTQyOTgxMTU0LTQwNjUtODQ0OS5qcGdAMmM0ZmJhMWMwMzIzMWZmYzdkNGUzYjM3NGE2MDc2YjI%3D" width="100%"></a></div>				</div>
+
+			</div>
+			<div class="clear"></div>
+
+		</div>
+
+	</div>
+
+	<input type="hidden" id="cloud-server" value="ws://sock.b45b.com/198c06f28ec07a1c3207bb8b2aff6a6ec542067e4ed18f2299ba04bec4b459b215529367311/connect/"><input type="hidden" id="subscribe-session" value="528685079"><input type="hidden" id="subscribe-events" value="10000014895185,10000016647457,10000017611501,10000016779783,10000016564681,10000015495724,10000015659548,10000014934789,10000014937917,10000016519787,10000016519789,10000016519777,10000016519785,10000016519779,10000016519791,10000017571461,10000016565069,10000016565071,10000016565067,10000016565065,10000015887352,10000015887348,10000015887344,10000015496710,10000015742564,10000015742562,10000015742570,10000016657237,10000017479489,10000017693750,10000017695002,10000017601863,10000017601865,10000017601867,10000015439444,10000017679318,10000017679070,10000017640048,10000016553233,10000016553237,10000016553241,10000016553239,10000016553235,10000015244532"><input type="hidden" id="subscribe-type" value="live"><input type="hidden" id="subscribe-outcomes" value="W3sicCI6MSwicyI6IjEiLCJkIjpbLTEwXX0seyJwIjoyLCJzIjoiMSIsImQiOlsxLDUyXX0seyJwIjoxLCJzIjoiMiIsImQiOlstMTAsNCwxMCwzN119LHsicCI6MiwicyI6IjIiLCJkIjpbMSw1Ml19LHsicCI6MSwicyI6IjQiLCJkIjpbLTEwXX0seyJwIjoyLCJzIjoiNCIsImQiOlsxLDUyXX0seyJwIjoxLCJzIjoiNSIsImQiOlsxMF19LHsicCI6MiwicyI6IjUiLCJkIjpbMSw1Ml19LHsicCI6MSwicyI6IjYiLCJkIjpbLTEwXX0seyJwIjoyLCJzIjoiNiIsImQiOlsxLDUyXX0seyJwIjoxLCJzIjoiMjMiLCJkIjpbNCwxMCwzNywxMDJdfSx7InAiOjIsInMiOiIyMyIsImQiOlsxLDUyXX1d"><input type="hidden" id="subscribe-fields" value="data,markets"><input type="hidden" id="subscribe-page" value="inplay"><input type="hidden" id="subscribe-team-names" value="1@-12,1@-10,1@4,1@10,1@13,1@16,1@17,1@20,1@22,1@37,1@49,1@61,1@102,1@103,1@107,1@192,2@1,2@3,2@52"><input type="hidden" id="subscribe-market-priority" value="1@-10,1@4,2@1,1@10,2@52,1@37,1@102">
+
+	<script>
+		$("#search-box").keyup(function() {
+			var v = $(this).val().toLowerCase();
+			if(v.length<3) {
+				$(".event-type").show();
+				$(".event-row").show();
+				return false;
+			}
+			$(".events-holder .event-type").each(function() {
+				if($(this).html().toLowerCase().indexOf(v)>-1) {
+					if($(this).find(".title").html().toLowerCase().indexOf(v)>-1) {
+						$(this).find(".event-row").show();
+						$(this).show();
+					} else {
+						$(this).find(".event-row").each(function() {
+							if($(this).html().toLowerCase().indexOf(v)>-1) $(this).show();
+							else $(this).hide();
+						});
+					}
+				}
+				else $(this).hide();
+			});
+		});
+	</script>
+
+
+		</div>
+	</center>
+	
+	<div class="footer desktop">
+		<div class="inline container pr10">
+			كاملترين سايت ايراني با بيشترين كاربر در ايران		</div>
+	</div>
+
+	<div class="footer-links desktop">
+		<div class="inline container pr10">
+			<div class="left">
+				<a href="/content/help" class="footer-link">راهنما</a>
+				<a href="/content/promotions" class="footer-link">بونوس های ویژه</a>							</div>
+			<div class="right">
+							</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+
+	
+	
+	<div class="mobile mobile-bar-holder"></div>
+	<div class="mobile mobile-footer-bar">
+		<a href="/sport/prematch" class="sport ">پیش بینی ورزشی</a>
+		<a href="/sport/live" class="live active">پیش بینی زنده</a>
+		<a href="/sport/scores" class="scores ">نتایج زنده</a>
+		<a href="/casino/index" class="casino ">کازینو آنلاین</a>
+		<a href="/user/account" class="account ">حساب کاربری</a>
+	</div>
+
+	
+	<div class="splash-view">
+		<div class="splash-container">
+			<div class="splash-header">
+				<div class="left splash-title"><!--Title--></div>
+				<div class="right"><span class="fa fa-times pointer splash-close-button"></span></div>
+				<div class="clear"></div>
+			</div>
+			<div class="splash-content"><!--Content--></div>
+		</div>
+	</div>
+
+	
+</body>
+</html>

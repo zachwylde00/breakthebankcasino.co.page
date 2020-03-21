@@ -1,0 +1,44 @@
+{
+  "name": "string",
+  "version": "3.3.0",
+  "description": "string contains methods that aren't included in the vanilla JavaScript string such as escaping HTML, decoding HTML entities, stripping tags, etc.",
+  "keywords": [
+    "string",
+    "strings",
+    "string.js",
+    "stringjs",
+    "S",
+    "s",
+    "csv",
+    "html",
+    "entities",
+    "parse",
+    "html",
+    "tags",
+    "strip",
+    "trim",
+    "encode",
+    "decode",
+    "escape",
+    "unescape"
+  ],
+  "main": "./dist/string.min.js",
+  "ignore": [
+    "lib/",
+    "node_modules/",
+    "package.json",
+    "component.json",
+    "test/"
+  ],
+  "homepage": "https://github.com/jprichardson/string.js",
+  "_release": "3.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "3.3.0",
+    "commit": "ecd644daccc53d34ac869dede1d7832a44176aec"
+  },
+  "_source": "git://github.com/jprichardson/string.js.git",
+  "_target": "~3.3.0",
+  "_originalSource": "stringjs",
+  "_direct": true
+}

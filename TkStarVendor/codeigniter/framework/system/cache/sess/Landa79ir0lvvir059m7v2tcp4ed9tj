@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1531259302;message_http://localhost/users/resetPassword|a:4:{s:7:"message";s:185:"یک ایمیل حاوی لینک بازیابی کلمه عبور برای ایمیل شما ارسال شد . در صورت عدم مشاهده پوشه Spam خود را چک کنید";s:4:"type";s:7:"success";s:5:"title";s:32:"بازیابی کلمه عبور";s:8:"link_url";s:19:"users/resetPassword";}

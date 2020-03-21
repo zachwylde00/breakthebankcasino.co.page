@@ -1,0 +1,188 @@
+<?php
+/* Smarty version 3.1.31, created on 2018-07-11 02:52:43
+  from "C:\xampp\htdocs\themes\default\TkStarBet2018\partials\header_menu.tpl" */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.31',
+  'unifunc' => 'content_5b4531b3a35b34_12960460',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    '6f9af3e71f793d6297e6f94ecfc35438dff4496d' => 
+    array (
+      0 => 'C:\\xampp\\htdocs\\themes\\default\\TkStarBet2018\\partials\\header_menu.tpl',
+      1 => 1531063081,
+      2 => 'file',
+    ),
+  ),
+  'includes' => 
+  array (
+  ),
+),false)) {
+function content_5b4531b3a35b34_12960460 (Smarty_Internal_Template $_smarty_tpl) {
+if (!is_callable('smarty_function_site_url')) require_once 'C:\\xampp\\htdocs\\TkStarApplication\\smarty\\plugins\\function.site_url.php';
+if (!is_callable('smarty_modifier_price_format')) require_once 'C:\\xampp\\htdocs\\TkStarApplication\\smarty\\plugins\\modifier.price_format.php';
+if (!is_callable('smarty_function_assets_url')) require_once 'C:\\xampp\\htdocs\\TkStarApplication\\smarty\\plugins\\function.assets_url.php';
+?>
+	<center class="header-main-center">
+		<div class="header-top header desktop">
+			<center>
+				<div class="mr20">
+				<?php if (!$_smarty_tpl->tpl_vars['is_logged_in']->value) {?>
+					<div class="right mt5">
+						<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+users/register" class="link signup">ثبت نام</a>
+						<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+users/login" class="link login">ورود به حساب کاربری</a>
+					</div>
+				<?php } else { ?>
+					<div class="right mt5">
+						<div class="name"><?php echo $_smarty_tpl->tpl_vars['user']->value->first_name;?>
+ <?php echo $_smarty_tpl->tpl_vars['user']->value->last_name;?>
+</div>
+						<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+payment/credit" class="balance"><span class="user-balance-place"><?php echo smarty_modifier_price_format($_smarty_tpl->tpl_vars['user']->value->cash);?>
+</span></a>
+						<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+payment/credit" class="account login">افزایش موجودی</a>
+						<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+dashboard" class="account login">حساب کاربری</a>
+						<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+users/logout" class="account signup">خروج از حساب کاربری</a>
+					</div>
+					<div class="clear"></div>
+				<?php }?>
+				</div>
+			</center>
+		</div>
+		<div class="header header-wrapper mr20 mb10 desktop top_bar_list">
+			<div class="left"><a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+"><img src="<?php echo smarty_function_assets_url(array(),$_smarty_tpl);?>
+/images/main_logo.png" style="margin-top: 50px !important;"></a></div>
+			<div class="left top-bar-wrapper">
+				<div class="top-bar desktop">
+					<div class="container inline">
+						<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+" class="<?php ob_start();
+echo $_SERVER['REQUEST_URI'];
+$_prefixVariable2=ob_get_clean();
+ob_start();
+echo $_SERVER['REQUEST_URI'];
+$_prefixVariable3=ob_get_clean();
+if (strpos($_SERVER['REQUEST_URI'],'index') !== false || $_prefixVariable2 == '' || $_prefixVariable3 == '/') {?>active<?php }?>">صفحه اصلی</a>
+						<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+bets/inplayBet" class="live-tab <?php if (strpos($_SERVER['REQUEST_URI'],'inplayBet') !== false || strpos($_SERVER['REQUEST_URI'],'InplayOdds') !== false) {?>active<?php }?>">پیش بینی زنده</a>
+						<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+bets/upComing" class="<?php if (strpos($_SERVER['REQUEST_URI'],'upComing') !== false || strpos($_SERVER['REQUEST_URI'],'preEvents') !== false) {?>active<?php }?>">پیش بینی پیش از بازی</a>
+						<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+users/casino" class="<?php if (strpos($_SERVER['REQUEST_URI'],'casino') !== false) {?>active<?php }?>">کازینو آنلاین</a>
+						<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+contacts/tickets/ticket-list" class="<?php if (strpos($_SERVER['REQUEST_URI'],'contacts/tickets/ticket-list') !== false || strpos($_SERVER['REQUEST_URI'],'contacts/tickets/new-ticket') !== false) {?>active<?php }?>">پشتیبانی</a>
+						<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+users/help" class="<?php if (strpos($_SERVER['REQUEST_URI'],'users/help') !== false) {?>active<?php }?>">راهنما</a>
+					</div>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="header header-sub desktop">
+			<div class="mr20">
+				<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/crash" class="litem"><div class="menu-mini-icons"><img src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/mini/crash.png" /></div><div class="menu-mini-icons-title">انفجار</div></a>
+				<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/baccarat" class="litem"><div class="menu-mini-icons"><img src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/mini/baccarat.png" /></div><div class="menu-mini-icons-title">باکارات</div></a>
+				<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/blackjack" class="litem"><div class="menu-mini-icons"><img src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/mini/blackjack.png" /></div><div class="menu-mini-icons-title">بلک جک (21)</div></a>
+				<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/royal_roulette" class="litem"><div class="menu-mini-icons"><img src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/mini/royal_roulette.png" /></div><div class="menu-mini-icons-title">رویال رولت</div></a>
+				<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/seven_clubs" class="litem"><div class="menu-mini-icons"><img src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/mini/seven_clubs.png" /></div><div class="menu-mini-icons-title">چهار برگ (پاسور)</div></a>
+				<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/two_verdicts" class="litem"><div class="menu-mini-icons"><img src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/mini/two_verdicts.png" /></div><div class="menu-mini-icons-title">حکم دو نفره</div></a>
+				<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/plinko" class="litem"><div class="menu-mini-icons"><img src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/mini/plinko.png" /></div><div class="menu-mini-icons-title">توپ و سبد</div></a>
+				<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/craps" class="litem"><div class="menu-mini-icons"><img src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/mini/craps.png" /></div><div class="menu-mini-icons-title">زمین و تاس (کرپس)</div></a>
+				<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/fortune_wheel" class="litem"><div class="menu-mini-icons"><img src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/mini/fortune_wheel.png" /></div><div class="menu-mini-icons-title">گردونه شانس</div></a>
+				<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/high_low" class="litem"><div class="menu-mini-icons"><img src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/mini/high_low.png" /></div><div class="menu-mini-icons-title">کمتر بیشتر</div></a>
+			</div>
+		</div>
+		<div class="header container mobile mobile-bar top_bar_list">
+			<div class="icon"><a href="javascript:;" class="mobile-menu-action fa fa-bars"></a></div>
+			<div class="logo" style="left: 0;position: absolute; margin-left: 20px;"><a href="/default"><img src="<?php echo smarty_function_assets_url(array(),$_smarty_tpl);?>
+/images/main_logo.png" height="40"></a></div>
+		</div>
+		<div class="mobile mobile-bar-holder"></div>
+	</center>
+	<div class="mobile-menu mobile" style="text-align: center !important;">
+		<?php if (!$_smarty_tpl->tpl_vars['is_logged_in']->value) {?>
+			<div class="buttons" style="margin-top: 10px !important;background-color: transparent !important;">
+				<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+users/login" class="button1">ورود به حساب کاربری</a>
+				<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+users/register" class="button2">ثبت نام</a>
+			</div>
+		<?php } else { ?>
+			<div class="info" style="font-size: 20px !important; width: 100% !important;">
+				<span class="name"><?php echo $_smarty_tpl->tpl_vars['user']->value->first_name;?>
+ <?php echo $_smarty_tpl->tpl_vars['user']->value->last_name;?>
+</span><br>
+				<span class="user-balance-place"><?php echo smarty_modifier_price_format($_smarty_tpl->tpl_vars['user']->value->cash);?>
+</span>
+			</div>
+			<div class="buttons" style="margin-top: 10px !important;background-color: transparent !important;">
+				<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+payment/credit" class="button1">افزایش موجودی</a>
+				<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+users/logout" class="button2">خروج از حساب کاربری</a>
+			</div>
+		<?php }?>
+		<div class="items">
+			<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+" class="active">صفحه اصلی</a>
+			<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+bets/inplayBet" class="active">پیش بینی زنده</a>
+			<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+bets/upComing" class="active">پیش بینی پیش از بازی</a>
+			<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino" class="active">کازینو آنلاین</a>
+			<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+contacts/tickets/ticket-list">پشتیبانی</a>
+			<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+help">راهنما</a>
+			<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/crash" class="active">انفجار</a>
+			<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/baccarat">باکارات</a>
+			<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/blackjack">بلک جک (21)</a>
+			<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/royal_roulette">رویال رولت</a>
+			<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/seven_clubs">پاسور</a>
+			<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/two_verdicts">حکم</a>
+			<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/plinko">توپ و سبد</a>
+			<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/crasp">زمین و تاس (کرپس)</a>
+			<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/fortune_wheel">گردونه شانس</a>
+			<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/high_low">کمتر بیشتر</a>
+		</div>
+	</div><?php }
+}

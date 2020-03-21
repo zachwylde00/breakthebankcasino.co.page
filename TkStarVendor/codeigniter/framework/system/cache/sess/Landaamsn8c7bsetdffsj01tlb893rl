@@ -1,0 +1,3 @@
+__ci_last_regenerate|i:1519358065;message_http://localhost/users/register|a:4:{s:7:"message";s:202:"خطا در فیلدهای ورودی<p class="error">مقداردهی فیلد کلمه عبور الزامی است.</p>
+<p class="error">مقداردهی فیلد ایمیل الزامی است.</p>
+";s:4:"type";s:4:"fail";s:5:"title";s:35:"ثبت نام حساب کاربری";s:8:"link_url";s:14:"users/register";}__ci_vars|a:1:{s:39:"message_http://localhost/users/register";s:3:"new";}

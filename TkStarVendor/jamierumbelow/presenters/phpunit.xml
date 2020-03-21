@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit convertErrorsToExceptions="true"
+		 convertNoticesToExceptions="true"
+		 convertWarningsToExceptions="true"
+		 stopOnFailure="false"
+		 syntaxCheck="false"
+		 backupGlobals="false"
+		 backupStaticAttributes="false"
+		 colors="true"
+		 bootstrap="vendor/autoload.php">
+	<testsuites>
+		<testsuite name="CI Presenters">
+			<directory>./tests/</directory>
+		</testsuite>
+	</testsuites>
+</phpunit>

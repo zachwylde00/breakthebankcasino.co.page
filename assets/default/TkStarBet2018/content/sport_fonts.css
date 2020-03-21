@@ -1,0 +1,190 @@
+@font-face{
+    font-family: TkSportFont;
+    src: url(../fonts/TkSportFont.eot);
+    src: url(../fonts/TkSportFont.eot#iefix) format('embedded-opentype'),
+		 url(../fonts/TkSportFont.woff) format('woff'),
+		 url(../fonts/TkSportFont.ttf) format('truetype'),
+		 url(../fonts/TkSportFont.svg) format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+.TkSF{
+    display: inline-block;
+	font-family: TkSportFont !important;
+    font: normal normal normal 14px/1 TkSportFont;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+.TkSF:before{
+    content: "\e819";
+}
+.TkSF-1:before{
+    content: "\e805";
+}
+.TkSF-2:before{
+    content: "\e80a";
+}
+.TkSF-3:before{
+    content: "\e802";
+}
+.TkSF-4:before{
+    content: "\e823";
+}
+.TkSF-5:before{
+    content: "\e807";
+}
+.TkSF-6:before{
+    content: "\e825";
+}
+.TkSF-7:before{
+    content: "\812";
+}
+.TkSF-9:before{
+    content: "\e803";
+}
+.TkSF-10:before{
+    content: "\e832";
+}
+.TkSF-11:before{
+    content: "\e801";
+}
+.TkSF-12:before{
+    content: "\e80e";
+}
+.TkSF-13:before{
+    content: "\e824";
+}
+.TkSF-14:before{
+    content: "\e804";
+}
+.TkSF-15:before{
+    content: "\e80b";
+}
+.TkSF-16:before{
+    content: "\e809";
+}
+.TkSF-17:before{
+    content: "\e801";
+}
+.TkSF-18:before{
+    content: "\e811";
+}
+.TkSF-19:before{
+    content: "\e830";
+}
+.TkSF-20:before{
+    content: "\e81b";
+}
+.TkSF-21:before{
+    content: "\e800";
+}
+.TkSF-22:before{
+    content: "\e829";
+}
+.TkSF-23:before{
+    content: "\e818";
+}
+.TkSF-24:before{
+    content: "\e823";
+}
+.TkSF-26:before{
+    content: "\e806";
+}
+.TkSF-28:before{
+    content: "\e814";
+}
+.TkSF-29:before{
+    content: "\e82c";
+}
+.TkSF-31:before{
+    content: "\e80c";
+}
+.TkSF-32:before{
+    content: "\e816";
+}
+.TkSF-34:before{
+    content: "\e819";
+}
+.TkSF-36:before{
+    content: "\e81e";
+}
+.TkSF-37:before{
+    content: "\e81c";
+}
+.TkSF-43:before{
+    content: "\e804";
+}
+.TkSF-44:before{
+    content: "\e804";
+}
+.TkSF-46:before{
+    content: "\e804";
+}
+.TkSF-47:before{
+    content: "\e804";
+}
+.TkSF-48:before{
+    content: "\e804";
+}
+.TkSF-49:before{
+    content: "\e804";
+}
+.TkSF-50:before{
+    content: "\e804";
+}
+.TkSF-51:before{
+    content: "\e804";
+}
+.TkSF-52:before{
+    content: "\e806";
+}
+.TkSF-60:before{
+    content: "\e822";
+}
+.TkSF-61:before{
+    content: "\e808";
+}
+.TkSF-81:before{
+    content: "\e81d";
+}
+.TkSF-102:before{
+    content: "\e804";
+}
+.TkSF-103:before{
+    content: "\e804";
+}
+.TkSF-104:before{
+    content: "\e804";
+}
+.TkSF-105:before{
+    content: "\e804";
+}
+.TkSF-106:before{
+    content: "\e811";
+}
+.TkSF-109:before{
+    content: "\e831";
+}
+.TkSF-110:before{
+    content: "\e831";
+}
+.TkSF-111:before{
+    content: "\e831";
+}
+.TkSF-112:before{
+    content: "\e831";
+}
+.TkSF-113:before{
+    content: "\e831";
+}
+.TkSF-117:before{
+    content: "\e832";
+}
+.TkSF-118:before{
+    content: "\e831";
+}
+.TkSF-121:before{
+    content: "\e831";
+}

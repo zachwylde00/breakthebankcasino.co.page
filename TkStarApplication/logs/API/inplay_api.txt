@@ -1,0 +1,1 @@
+{"data":[],"meta":{"subscription":{"started_at":{"date":"2017-03-20 21:02:56.000000","timezone_type":3,"timezone":"UTC"},"trial_ends_at":null,"ends_at":null},"plan":{"name":"Free Plan","price":"0.00","request_limit":"3,1"},"sports":[{"id":1,"name":"Soccer","current":true},{"id":6,"name":"Cricket","current":false}]}}

@@ -1,0 +1,386 @@
+<?php
+/* Smarty version 3.1.31, created on 2018-06-30 01:10:38
+  from "C:\xampp\htdocs\themes\default\TkStarBet2018\modules\bets\index.tpl" */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.31',
+  'unifunc' => 'content_5b369946b36658_53434924',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    '055653995aa1bcd0f614df7641c3d2e10beaa371' => 
+    array (
+      0 => 'C:\\xampp\\htdocs\\themes\\default\\TkStarBet2018\\modules\\bets\\index.tpl',
+      1 => 1530067162,
+      2 => 'file',
+    ),
+  ),
+  'includes' => 
+  array (
+  ),
+),false)) {
+function content_5b369946b36658_53434924 (Smarty_Internal_Template $_smarty_tpl) {
+if (!is_callable('smarty_function_site_url')) require_once 'C:\\xampp\\htdocs\\TkStarApplication\\smarty\\plugins\\function.site_url.php';
+if (!is_callable('smarty_function_assets_url')) require_once 'C:\\xampp\\htdocs\\TkStarApplication\\smarty\\plugins\\function.assets_url.php';
+if (!is_callable('smarty_function_searchArray')) require_once 'C:\\xampp\\htdocs\\TkStarApplication\\smarty\\plugins\\function.searchArray.php';
+if (!is_callable('smarty_modifier_fa')) require_once 'C:\\xampp\\htdocs\\TkStarApplication\\smarty\\plugins\\modifier.fa.php';
+?>
+<style type="text/css">
+    .blink-green {
+        background-color: green;
+        -webkit-animation: 1s linear infinite condemned_blink_effect_green;
+        animation: 1s linear infinite condemned_blink_effect_green;
+    }
+    .blink-red {
+        background-color: red;
+        -webkit-animation: 1s linear infinite condemned_blink_effect_red;
+        animation: 1s linear infinite condemned_blink_effect_red;
+    }
+    @-webkit-keyframes condemned_blink_effect_red {
+        0% {
+            background-color: red;
+        }
+        50% {
+            background-color: red;
+        }
+        100% {
+            background-color: #383838;
+        }
+    }
+    @keyframes condemned_blink_effect_red {
+        0% {
+            background-color: red;
+        }
+        50% {
+            background-color: red;
+        }
+        100% {
+            background-color: #383838;
+        }
+    }
+    @-webkit-keyframes condemned_blink_effect_green {
+        0% {
+            background-color: green;
+        }
+        50% {
+            background-color: green;
+        }
+        100% {
+            background-color: #383838;
+        }
+    }
+    @keyframes condemned_blink_effect_green {
+        0% {
+            background-color: green;
+        }
+        50% {
+            background-color: green;
+        }
+        100% {
+            background-color: #383838;
+        }
+    }
+</style>
+<?php echo '<script'; ?>
+ type="text/javascript">
+	jQuery(document).ready(function(){
+		jQuery.ajax({
+			type: 'GET',
+			url: '<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+bets/reloadInplayOdds',
+			success:function($r){
+				var myjson = JSON.parse($r);
+				for(var key in myjson){
+					jQuery('#li_odds_' + key).html(myjson[key]);
+				}
+				intervalBackGrounds();
+				prepareButtonEvents();
+			}
+		});
+		setInterval(function(){
+			jQuery.ajax({
+				type: 'GET',
+				url: '<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+bets/reloadInplayOdds',
+				success: function($r){
+					var myjson = JSON.parse($r);
+					for(var key in myjson){
+						jQuery('#li_odds_' + key).html(myjson[key]);
+					}
+					intervalBackGrounds();
+					prepareButtonEvents();
+				}
+			});
+		}, 5000);
+		setTimeout(function(){
+			window.location = window.location;
+		}, 180000);
+	});
+    function intervalBackGrounds(){
+        self.intervalBlinkBC = 0;
+        var intervalID = setInterval(function(){
+			jQuery('.blink-green').removeClass('blink-green');
+			clearInterval(intervalID);
+        }, 2000);
+        self.intervalBlinkBC2 = 0;
+        var intervalID2 = setInterval(function(){
+			jQuery('.blink-red').removeClass('blink-red');
+			clearInterval(intervalID2);
+        }, 2000);
+    }
+<?php echo '</script'; ?>
+>
+<div>
+	<div class="cell">
+		<div class="container">
+			<div class="maincontent clearfix">
+				<div class="content">
+					<ul class="odds inplay">
+						<li>
+							<div class="col-lg-3">
+								<div style="margin-top: 8px !important; margin-right: 11px !important;" class="sidebar-desktop-casino-games">
+									<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/crash"><img style="margin-bottom: 10px !important; width: 100%; display: inline;" src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/crash.gif"></a>
+									<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/baccarat"><img style="margin-bottom: 10px !important; width: 100%; display: inline;" src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/baccarat.gif"></a>
+									<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/blackjack"><img style="margin-bottom: 10px !important; width: 100%; display: inline;" src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/blackjack.gif"></a>
+									<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/royal_roulette"><img style="margin-bottom: 10px !important; width: 100%; display: inline;" src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/royal_roulette.gif"></a>
+									<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/seven_clubs"><img style="margin-bottom: 10px !important; width: 100%; display: inline;" src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/seven_clubs.gif"></a>
+									<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/two_verdicts"><img style="margin-bottom: 10px !important; width: 100%; display: inline;" src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/two_verdicts.gif"></a>
+								</div>
+							</div>
+							<?php echo '<script'; ?>
+ type="text/javascript">
+								jQuery(document).ready(function(){
+									var image_container_width = jQuery(".image-container").width();
+									jQuery('.image-container').height(image_container_width / 2);
+									jQuery(window).resize(function(){
+										jQuery('.image-container').height(image_container_width / 2);
+									});
+									var splash_total = jQuery('.main-splash .image-container .image').length;
+									if(splash_total >= 1){
+										setInterval(function(){
+											var total = jQuery('.main-splash .image-container .image').length;
+											var new_total = parseInt(total - 1);
+											var main_splash_data = jQuery('.main-splash').attr('data');
+											var active = parseInt(main_splash_data);
+											if(active >= new_total){
+												jQuery('.main-splash').attr({ data: '0' });
+												jQuery('.main-splash .image-container .image').animate({ marginRight: '0%' }, 500);
+												return false;
+											}else{
+												active++;
+												var active_node = jQuery('.main-splash .image-container .image')[active];
+												jQuery(active_node).clearQueue().finish();
+												jQuery(active_node).animate({ marginRight: '-100%' }, 500);
+												jQuery('.main-splash').attr({ 'data': active });
+											}
+										}, 5000);
+									}
+								});
+							<?php echo '</script'; ?>
+>
+							<div class="col-lg-6">
+								<div class="main-splash" data="0">
+									<div class="image-container" style="height: 400px !important; margin-top: 8px !important;">
+										<div class="image" style="background-image: url(<?php echo smarty_function_assets_url(array(),$_smarty_tpl);?>
+/images/slider/betting.jpg); margin-left: 0%;"></div>
+										<div class="image" style="background-image: url(<?php echo smarty_function_assets_url(array(),$_smarty_tpl);?>
+/images/slider/casino.jpg); margin-left: 0%;"></div>
+										<!-- <a target="_blank" href="https://t.me/bwin7"><div class="image" style="background-image: url(<?php echo smarty_function_assets_url(array(),$_smarty_tpl);?>
+/images/slider/telegram.jpg); margin-left: 0%;"></div></a> -->
+										<!-- <a target="_blank" href="https://instagram.com/bwin.seven"><div class="image" style="background-image: url(<?php echo smarty_function_assets_url(array(),$_smarty_tpl);?>
+/images/slider/instagram.jpg); margin-left: 0%;"></div></a> -->
+									</div>
+								</div>				
+								<table class="table inplaytable nohover" style="margin-top: 8px !important;">
+									<tbody>
+										<?php if (!empty($_smarty_tpl->tpl_vars['matches']->value)) {?>
+											<?php $_smarty_tpl->_assignInScope('i', 0);
+?>
+											<?php $_smarty_tpl->_assignInScope('bannInplays', file_get_contents(site_url('bets/getbannInplays/')));
+?>
+											<?php $_smarty_tpl->_assignInScope('bannInplaysJson', json_decode($_smarty_tpl->tpl_vars['bannInplays']->value,true));
+?>
+											<?php
+$_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['matches']->value, 'val', false, 'key');
+if ($_from !== null) {
+foreach ($_from as $_smarty_tpl->tpl_vars['key']->value => $_smarty_tpl->tpl_vars['val']->value) {
+?>
+												<?php $_smarty_tpl->_assignInScope('gotBreak', 0);
+?>
+												<?php
+$_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['val']->value, 'match');
+if ($_from !== null) {
+foreach ($_from as $_smarty_tpl->tpl_vars['match']->value) {
+?> 
+													<?php $_smarty_tpl->_assignInScope('date2', DateTime::createFromFormat('Y-m-d H:i:s',date('Y-m-d H:i:s')));
+?>
+													<?php ob_start();
+echo smarty_function_searchArray(array('key'=>'label','val'=>'1','array'=>$_smarty_tpl->tpl_vars['match']->value->odds->data[0]->bookmaker->data[0]->odds->data),$_smarty_tpl);
+$_prefixVariable1=ob_get_clean();
+ob_start();
+echo smarty_function_searchArray(array('key'=>'label','val'=>'2','array'=>$_smarty_tpl->tpl_vars['match']->value->odds->data[0]->bookmaker->data[0]->odds->data),$_smarty_tpl);
+$_prefixVariable2=ob_get_clean();
+ob_start();
+echo smarty_function_searchArray(array('key'=>'label','val'=>'X','array'=>$_smarty_tpl->tpl_vars['match']->value->odds->data[0]->bookmaker->data[0]->odds->data),$_smarty_tpl);
+$_prefixVariable3=ob_get_clean();
+if ($_smarty_tpl->tpl_vars['match']->value->time->minute <= 89 && ($_smarty_tpl->tpl_vars['match']->value->time->status == 'LIVE' || $_smarty_tpl->tpl_vars['match']->value->time->status == 'HT' || $_smarty_tpl->tpl_vars['match']->value->time->status == 'FT') && $_prefixVariable1 != null && $_prefixVariable2 != null && $_prefixVariable3 != null) {?> 
+													   <?php $_smarty_tpl->_assignInScope('gotBreak', 1);
+?>
+														<?php
+break 1;?>
+													<?php }?>
+												<?php
+}
+}
+$_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);
+?>
+
+												<?php if (!$_smarty_tpl->tpl_vars['gotBreak']->value) {?>
+													<?php
+continue 1;?>
+												<?php }?>
+												<tr class="inplayheader">
+													<th><span class="match"><b><?php echo smarty_modifier_fa($_smarty_tpl->tpl_vars['key']->value);?>
+</b></span></th>
+													<th style="width:44px"><b>میزبان</b></th>
+													<th style="width:44px"><b>مساوی</b></th>
+													<th style="width:44px"><b>میهمان</b></th>
+													<th style="width:25px"></th>
+												</tr>
+												<?php
+$_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['val']->value, 'match_team');
+if ($_from !== null) {
+foreach ($_from as $_smarty_tpl->tpl_vars['match_team']->value) {
+?>
+													<?php if (($_smarty_tpl->tpl_vars['match_team']->value->time->status == 'LIVE' || $_smarty_tpl->tpl_vars['match_team']->value->time->status == 'HT' || $_smarty_tpl->tpl_vars['match_team']->value->time->status == 'FT') && $_smarty_tpl->tpl_vars['match_team']->value->time->minute <= 89) {?>
+													<tr data-eventid="<?php echo $_smarty_tpl->tpl_vars['match']->value->id;?>
+" class="odddetails tr-click" data-link-to-tr="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+bets/preEvents/<?php echo $_smarty_tpl->tpl_vars['match']->value->id;?>
+" data-marketid="">
+														<td>
+															<b class="ellipsis"><small style="color: darkgray;"><?php if ($_smarty_tpl->tpl_vars['match_team']->value->time->minute != '') {
+echo $_smarty_tpl->tpl_vars['match_team']->value->time->minute;
+} else { ?>00<?php }?>:<?php if ($_smarty_tpl->tpl_vars['match_team']->value->time->second != '') {
+echo $_smarty_tpl->tpl_vars['match_team']->value->time->second;
+} else { ?>00<?php }?></small><br><div style="margin-right: 15px; margin-bottom: 5px;"><text style="color: green !important; font-weight: bold !important; margin: 0px 5px 0px 5px !important;"><?php echo $_smarty_tpl->tpl_vars['match_team']->value->scores->localteam_score;?>
+</text> <text class="host"><?php echo smarty_modifier_fa($_smarty_tpl->tpl_vars['match_team']->value->localTeam->data->name);?>
+</text><br><text style="color: green !important; font-weight: bold !important; margin: 0px 5px 0px 5px !important;"><?php echo $_smarty_tpl->tpl_vars['match_team']->value->scores->visitorteam_score;?>
+</text> <text class="guest"><?php echo smarty_modifier_fa($_smarty_tpl->tpl_vars['match_team']->value->visitorTeam->data->name);?>
+</text></div></b>
+															<input class="eninplaytime" type="hidden" value="<?php echo $_smarty_tpl->tpl_vars['match_team']->value->time->status;?>
+">
+														</td>
+														<td style='padding:0' colspan='3'>
+															<div class='eventodds' id="li_odds_<?php echo $_smarty_tpl->tpl_vars['match_team']->value->id;?>
+">
+																<span class="eventsuspended <?php if ($_smarty_tpl->tpl_vars['match_team']->value->deleted != true) {?>hidden<?php }?>">غیرفعال</span>
+																<ul class='mlodds'>
+																	<li class="inplayButton inplaybtn eventodd disabled"><span></span></li>
+																	<li class="inplayButton inplaybtn eventodd disabled"><span></span></li>
+																	<li class="inplayButton inplaybtn eventodd disabled"><span></span></li>
+																</ul>
+															</div>
+														</td>
+														<td><a class="fa fa-bar-chart has-tip more" title="شروط بیشتر" href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+bets/InplayOdds/<?php echo $_smarty_tpl->tpl_vars['match_team']->value->id;?>
+"></a></td>
+													</tr>
+													<?php }?>
+													<?php $_smarty_tpl->_assignInScope('i', $_smarty_tpl->tpl_vars['i']->value+1);
+?>
+												<?php
+}
+}
+$_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);
+?>
+
+											<?php
+}
+}
+$_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);
+?>
+
+											<?php if ($_smarty_tpl->tpl_vars['i']->value == 0 || $_smarty_tpl->tpl_vars['i']->value == "0") {?>
+												<tr><td>هیچ بازی زنده ای وجود ندارد</td></tr>
+											<?php }?>
+										<?php } else { ?>
+											<tr><td>هیچ بازی زنده ای وجود ندارد</td></tr>
+										<?php }?>
+									</tbody>
+								</table>
+							</div>
+							<div class="col-lg-3">
+								<div>
+									<table class="livescore betslip" style="margin-top: 8px;">
+										<tbody>
+											<tr><th style="color: #ffd33b  !important;">پیش بینی های من</th></tr>
+											<tr>
+												<td>
+													<div class="nobet">برای پیش بینی، ضریب بازی مورد نظر خود را انتخاب کنید</div>
+													<div class="selectedodds"><div class="betlist"></div></div>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<div class="bettotal" style="display: none; width: 100%;">
+										<table class="livescore multiple"></table>
+										<ul class="bettotal">
+											<li>مبلغ شرط: <span class="totalstake">0</span> تومان</li>
+											<li>برد احتمالی: <span class="totalwin">0</span> تومان</li>
+										</ul>
+										<table class="livescore" style="width:100% !important;">
+											<tbody>
+												<tr>
+													<td>
+														<button style="height: 40px !important;" class="deleteall form-button red-button" href="javascript:void(0)">حذف همه</button>
+														<button style="height: 40px !important;" class="placebet form-button disabled">ثبت شرط</button>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</div>
+								</div>
+								<div class="alertbox alertbox2 hidden"></div>
+								<div style="margin-top: 8px !important; margin-right: 11px !important;" class="sidebar-mobile-casino-games">
+									<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/crash"><img style="margin-bottom: 10px !important; width: 100%; display: inline;" src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/crash.gif"></a>
+									<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/baccarat"><img style="margin-bottom: 10px !important; width: 100%; display: inline;" src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/baccarat.gif"></a>
+									<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/blackjack"><img style="margin-bottom: 10px !important; width: 100%; display: inline;" src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/blackjack.gif"></a>
+									<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/royal_roulette"><img style="margin-bottom: 10px !important; width: 100%; display: inline;" src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/royal_roulette.gif"></a>
+									<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/seven_clubs"><img style="margin-bottom: 10px !important; width: 100%; display: inline;" src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/seven_clubs.gif"></a>
+									<a href="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/two_verdicts"><img style="margin-bottom: 10px !important; width: 100%; display: inline;" src="<?php echo smarty_function_site_url(array(),$_smarty_tpl);?>
+casino/templates/images/logoes/two_verdicts.gif"></a>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div><?php }
+}

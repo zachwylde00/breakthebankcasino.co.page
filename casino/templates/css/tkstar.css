@@ -1,0 +1,306 @@
+@font-face {
+     font-family: 'MainFont';
+     src: url('../fonts/IRANSansWeb(FaNum).woff') format('woff'), url('../fonts/IRANSansWeb(FaNum).ttf') format('truetype'), url('../fonts/IRANSansWeb(FaNum).eot') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+}
+ *{
+    font-family:MainFont !important;
+}
+ textarea{
+    resize:vertical !important;
+}
+ a{
+    text-decoration:none !important;
+}
+ #game_table{
+    display:none;
+    background: transparent !important;
+    z-index:99999 !important;
+    padding:0px !important;
+    margin:0px !important;
+    width:100% !important;
+    height:100% !important;
+	min-height: 500px !important;
+    position:absolute !important;
+    left:0 !important;
+    top:0 !important;
+}
+ #game_table #loading_for_player{
+    position:fixed !important;
+    top:0 !important;
+    left:0 !important;
+    background-color:#101010 !important;
+    width:100% !important;
+    height:100% !important;
+    z-index:99998 !important;
+}
+#game_table #loading_div{
+    font-size:14px !important;
+    direction:rtl !important;
+	margin-top: 10px !important;
+    text-align:center !important;
+    background-color:rgba(0,0,0,0.7) !important;
+    border-radius:5px !important;
+    border:1px solid white !important;
+    padding:10px;
+    width:100% !important;
+    color:white !important;
+}
+#game_table .cards{
+    transition: box-shadow 0.3s;
+}
+ #game_table .cardsError{
+    box-shadow: 1px 1px 20px 15px red;
+    border-radius:5px;
+}
+ #game_table #game_details{
+    text-align:center !important;
+    background-color:rgba(0,0,0,0.7) !important;
+    border-radius:5px !important;
+    border:1px solid white !important;
+    padding:10px;
+    width:100% !important;
+    color:white;
+}
+.crown-is-king-me, .crown-is-king-other{
+    width:32px !important;
+    height:32px !important;
+    margin-top:10px !important;
+}
+ #game_table #removebleCardsDiv{
+	position: fixed !important;
+	left: 10px;
+}
+ #game_table #removebleCardsDiv .cards{
+    width:100px !important;
+    margin-top:5px !important;
+    height:auto !important;
+}
+ #game_table #removebleCardsDiv .textRemove{
+    margin-top:20px !important;
+    color:white !important;
+	direction: rtl !important;
+}
+ #game_table .ground-cards1 img,#game_table .ground-cards2 img{
+    height:140px !important;
+    width:100px !important;
+}
+#game_table .others-cards-div-1 img, #game_table .me-cards-div img {
+	 margin-right: -50px !important;
+}
+#game_table .choose-card .tools {
+	margin-top: 10px !important;
+}
+ #game_table .choose-card .tools img{
+    cursor:pointer !important;
+}
+ #game_table .choose-card .tools img:nth-child(1){
+    margin-left:-15px !important;
+}
+ #game_table .choose-card .tools img:nth-child(2){
+    margin-left:5px !important;
+}
+#game_table .me-cards-div img {
+	cursor: pointer !important;
+}
+ #game_table2{
+    display:none;
+    background: transparent !important;
+    z-index:99999 !important;
+    padding:0px !important;
+    margin:0px !important;
+    width:100% !important;
+    height:100% !important;
+	min-height: 500px !important;
+    position:absolute !important;
+    left:0 !important;
+    top:0 !important;
+}
+.cards {
+	max-width: 110px;
+	width: 20%;
+	height: auto;
+	margin-right: 5px !important;
+	margin-top: 30px !important;
+}
+.ground-cards3 img {
+	width: 10%;
+	max-width: 100px;
+}
+.me-cards {
+	cursor: pointer !important;
+}
+ #game_table2 #loading_for_player2{
+    position:fixed !important;
+    top:0 !important;
+    left:0 !important;
+    background-color:#101010 !important;
+    width:100% !important;
+    height:100% !important;
+    z-index:99998 !important;
+}
+ #game_table2 #game_table2_close, #game_table #game_table_close{
+	 margin-bottom: 10px;
+	 z-index: 1000000 !important;
+}
+#game_table2 #loading_div2{
+    font-size:14px !important;
+    direction:rtl !important;
+	margin-top: 10px !important;
+    text-align:center !important;
+    background-color:rgba(0,0,0,0.7) !important;
+    border-radius:5px !important;
+    border:1px solid white !important;
+    padding:10px;
+    width:100% !important;
+    color:white !important;
+}
+#game_table2 #game_details2{
+    text-align:center !important;
+    background-color:rgba(0,0,0,0.7) !important;
+    border-radius:5px !important;
+    border:1px solid white !important;
+    padding:10px;
+    width:100% !important;
+    color:white;
+}
+#game_table2 #game_details2 #game_play_score2, #game_table2 #game_details2 #me_name2, #game_table2 #game_details2 #other_players_name2 {
+	padding: 10px;
+}
+#game_table #game_details #other_players_name, #game_table #game_details #game_play_score, #game_table #game_details #me_name {
+	padding: 10px;
+}
+#game_table2 #game_details2 #sendDouble2, #game_table #game_details #sendDouble {
+	padding: 1px;
+}
+.player-details{
+	display: block;
+    text-align:center !important;
+    background-color:rgba(0,0,0,0.6) !important;
+    border-radius:5px !important;
+    border:1px solid white !important;
+    padding:5px !important;
+	direction: rtl !important;
+	font-size: 13px !important;
+	margin-top: 5px !important;
+    width:50% !important;
+    color:white !important;
+}
+.player-empty{
+	display: block;
+	cursor:pointer;
+    text-align:center !important;
+    background-color: rgba(255,255,255,0.2) !important;
+    border-radius:5px !important;
+    border:1px solid white !important;
+    padding:40px !important;
+	direction: rtl !important;
+	font-size: 17px !important;
+	margin-top: 30px !important;
+    width:60% !important;
+    color:black !important;
+	min-height:100px;
+}
+.player-hand{
+    border: 3px solid red !important;
+	box-shadow: 1px 1px 10px 7px red;
+}
+.player-raise {
+	color: white !important;
+}
+.poker-ground-cards {
+	margin-top: 50px !important;
+	text-align: center !important;
+}
+.game-destractions {
+	color: black !important;
+	padding: 10px !important;
+	margin: 10px !important;
+	background-color: rgba(255,255,255,0.4) !important;
+	border-radius: 10px !important;
+	font-size: 15px !important;
+}
+.ltred{
+    text-align:left !important;
+    direction:ltr !important;
+}
+.rtled{
+    text-align:right !important;
+    direction:rtl !important;
+}
+.text-center{
+    text-align:center !important;
+    direction:rtl !important;
+}
+ .form{
+    width:95% !important;
+}
+ .display-inline{
+    display:inline !important;
+}
+ .tab-group .tab a{
+    width:33.3% !important;
+}
+ .reduce-margin{
+    margin-top:-25px !important;
+}
+ .label-white{
+    color:white !important;
+}
+ .table-white{
+    color:white !important;
+}
+ .display-hide{
+    display:none;
+}
+ .TkStarFont{
+    font-family:MainFont !important;
+}
+ .ltred{
+    direction:ltr !important;
+    text-align:left !important;
+}
+ .rtled{
+    direction:rtl !important;
+    text-align:right !important;
+}
+ .linked_hide{
+    text-decoration:none !important;
+    color:#aaa !important;
+}
+ .col{
+    background: url(../images/body.png) no-repeat center center fixed;
+    -moz-background-size:cover;
+    -webkit-background-size:cover;
+    -o-background-size:cdover;
+    background-size:cover;
+}
+ .margin-top-15{
+    margin-top:15px !important;
+}
+ .verdict-icons{
+    cursor:pointer !important;
+    width:40px !important;
+    height:auto !important;
+}
+ .alert{
+    direction:rtl !important;
+}
+ .modal .modal-body{
+    direction:rtl !important;
+    text-align:right !important;
+}
+ .modal .modal-footer{
+    direction:rtl !important;
+}
+ .modal .modal-title{
+    direction:rtl !important;
+}
+ :disabled{
+    color:black !important;
+    opacity:.5 !important;
+}
+.img-responsive {
+	display: inline !important;
+}

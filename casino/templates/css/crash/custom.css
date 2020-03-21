@@ -1,0 +1,191 @@
+﻿.content, .navigation, .header, .listview__item, .chat__search, .chat__title, .user {
+  direction: rtl;
+}
+body {
+  font-family: Samim !important
+}
+.full-width {
+	width: %100 !important;
+}
+.currency-name{
+	margin-right: 8px;
+}
+.currency-img{
+	width: 20px;
+	margin-right: 15px;
+}
+@media screen and (max-width:720px) {
+    .pure-visible-sm{display:none}
+    .pure-visible-md{display:none}
+    .pure-visible-lg{display:none}
+    .pure-visible-xl{display:none}
+    .pure-hidden-xs{display:none}
+	.text-center-xs{text-align:center !important;}
+}
+.switchery{background-color:#fff;border:1px solid #dfdfdf;border-radius:20px;cursor:pointer;display:inline-block;height:30px;position:relative;vertical-align:middle;width:50px;-moz-user-select:none;-khtml-user-select:none;-webkit-user-select:none;-ms-user-select:none;user-select:none;box-sizing:content-box;background-clip:content-box}.switchery>small{background:#fff;border-radius:100%;box-shadow:0 1px 3px rgba(0,0,0,0.4);height:30px;position:absolute;top:0;width:30px}.switchery-small{border-radius:20px;height:20px;width:33px}.switchery-small>small{height:20px;width:20px}.switchery-large{border-radius:40px;height:40px;width:66px}.switchery-large>small{height:40px;width:40px}
+.index-left{
+	margin-left:770px !important; 
+}
+.red_important_odd {
+    color: red !important;
+}
+.green_important_odd {
+    color: green !important;
+}
+#show_odd {
+    font-size: 80px !important;
+}
+.price-cash-div {
+    margin-top:10px;
+}
+.price-cash-text {
+    margin-top:5px;
+    height:30px;
+    width:18%;
+    display:inline-block;
+    padding:5px;
+    text-align:center;
+    border:1px solid #9c9c9c;
+}
+.auto-range-text {
+    margin-top:5px;
+    height:30px;
+    width:68%;
+    display:inline-block;
+    padding:10px;
+    vertical-align: middle;
+    text-align:center;
+    border:1px solid #9c9c9c;
+}
+.auto-range-cash-div {
+    padding-top:5px !important;
+    vertical-align: middle;
+}
+.price-cash {
+    display:inline-block;
+    height:30px;
+    padding:5px !important;
+    border:1px solid #9c9c9c;
+    width:80%;
+}
+.auto-range-cash {
+    display:inline-block;
+    height:30px;
+    padding: 5px;
+    border:1px solid #9c9c9c;
+    width:30%;
+}
+.ltred {
+    direction:ltr !important;
+    text-align:left !important;
+}
+.rtled {
+    direction:rtl !important;
+    text-align:right !important;
+}
+.switchery{
+    background-color:#fff;
+    border:1px solid #dfdfdf;
+    border-radius:20px;
+    cursor:pointer;
+    display:inline-block;
+    height:30px;
+    position:relative;
+    vertical-align:middle;
+    width:50px;
+    -moz-user-select:none;
+    -khtml-user-select:none;
+    -webkit-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+    box-sizing:content-box;
+    background-clip:content-box
+}
+.switchery>small{
+    background:#fff;
+    border-radius:100%;
+    box-shadow:0 1px 3px rgba(0,0,0,0.4);
+    height:30px;
+    position:absolute;
+    top:0;
+    width:30px
+}
+.switchery-small{
+    border-radius:20px;
+    height:20px;
+    width:33px
+}
+.switchery-small>small{
+    height:20px;
+    width:20px
+}
+.switchery-large{
+    border-radius:40px;
+    height:40px;
+    width:66px
+}
+.switchery-large>small{
+    height:40px;
+    width:40px
+}
+.chats {
+    margin-top: 10px;
+    overflow-y: scroll;
+    height: 400px;
+}
+.user_chat {
+    padding: 15px;
+    margin-top: 20px;
+    min-height: 70px;
+    border-radius: 5px;
+    border: 2px solid #eeeeee;
+}
+.seconds-to-wait {
+    display: table;
+    text-align: center;
+    opacity: 0.8;
+    z-index: 8;
+    background-color: black;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.waiting_lobbay {
+	text-align: center;
+	opacity: 0.95;
+	background-color: black;
+	position: fixed;
+	right: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 10000;
+	vertical-align: middle;
+	display: table;
+}
+.seconds-to-wait span {
+    display: block;
+}
+.seconds-to-wait [data-child] {
+    color: white;
+	display: table-cell;
+    vertical-align: middle;
+    font-size: 30px;
+}
+.seconds-to-wait [data-child] small {
+    font-size: 20px;
+    display: inline-block;
+}
+.waiting_lobbay span {
+    display: block;
+}
+.waiting_lobbay [data-child] {
+    color: white;
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 30px;
+}
+.waiting_lobbay [data-child] small {
+    font-size: 40px;
+    display: inline-block;
+}

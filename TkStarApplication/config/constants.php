@@ -1,0 +1,31 @@
+<?php
+$packages = array('jquery' => array('javascript' => array()), 'jquerytools' => array('javascript' => array()), 'labelify' => array('javascript' => array()), 'tablednd' => array('javascript' => array()), 'superfish' => array('javascript' => array()), 'zclip' => array('javascript' => array()), 'jquerycycle' => array('javascript' => array()), 'tinymce' => array('javascript' => array()), 'ckeditor' => array('javascript' => array()), 'ck_jq_adapter' => array('javascript' => array()), 'fancybox' => array('javascript' => array(), 'stylesheet' => array()), 'nestedSortable' => array('javascript' => array(), 'stylesheet' => array()), 'codemirror' => array('javascript' => array(), 'stylesheet' => array()), 'admin_jqueryui' => array('javascript' => array(), 'stylesheet' => array()));
+$states = array('' => '', 'AL' => 'Alabama', 'AK' => 'Alaska', 'AZ' => 'Arizona', 'AR' => 'Arkansas', 'CA' => 'California', 'CO' => 'Colorado', 'CT' => 'Connecticut', 'DE' => 'Delaware', 'DC' => 'District Of Columbia', 'FL' => 'Florida', 'GA' => 'Georgia', 'HI' => 'Hawaii', 'ID' => 'Idaho', 'IL' => 'Illinois', 'IN' => 'Indiana', 'IA' => 'Iowa', 'KS' => 'Kansas', 'KY' => 'Kentucky', 'LA' => 'Louisiana', 'ME' => 'Maine', 'MD' => 'Maryland', 'MA' => 'Massachusetts', 'MI' => 'Michigan', 'MN' => 'Minnesota', 'MS' => 'Mississippi', 'MO' => 'Missouri', 'MT' => 'Montana', 'NE' => 'Nebraska', 'NV' => 'Nevada', 'NH' => 'New Hampshire', 'NJ' => 'New Jersey', 'NM' => 'New Mexico', 'NY' => 'New York', 'NC' => 'North Carolina', 'ND' => 'North Dakota', 'OH' => 'Ohio', 'OK' => 'Oklahoma', 'OR' => 'Oregon', 'PA' => 'Pennsylvania', 'RI' => 'Rhode Island', 'SC' => 'South Carolina', 'SD' => 'South Dakota', 'TN' => 'Tennessee', 'TX' => 'Texas', 'UT' => 'Utah', 'VT' => 'Vermont', 'VA' => 'Virginia', 'WA' => 'Washington', 'WV' => 'West Virginia', 'WI' => 'Wisconsin', 'WY' => 'Wyoming');
+define('FILE_READ_MODE', 0644);
+define('FILE_WRITE_MODE', 0666);
+define('DIR_READ_MODE', 0755);
+define('DIR_WRITE_MODE', 0777);
+define('FOPEN_READ', 'rb');
+define('FOPEN_READ_WRITE', 'r+b');
+define('FOPEN_WRITE_CREATE_DESTRUCTIVE', 'wb');
+define('FOPEN_READ_WRITE_CREATE_DESTRUCTIVE', 'w+b');
+define('FOPEN_WRITE_CREATE', 'ab');
+define('FOPEN_READ_WRITE_CREATE', 'a+b');
+define('FOPEN_WRITE_CREATE_STRICT', 'xb');
+define('FOPEN_READ_WRITE_CREATE_STRICT', 'x+b');
+define('CC_VERSION', '1.1.4');
+define('CMS_ROOT', dirname(BASEPATH) . '/');
+define('BOOKMAKER_ID', 1);
+define('API_DIR', 'upload/API' . DIRECTORY_SEPARATOR);
+define('ADMIN_PATH', 'AdministratorPanel');
+define('NO_NEED_LOGIN_PRE', 'netmrm');
+define('USER' , 'user');
+define('MANFI' ,59000);
+define('ADMINISTRATOR' , 'AdministratorPanel');
+define('SUPER_ADMIN' , 'superadmin');
+define('IMAGE_CACHE', '/assets/cms/image-cache');
+define('USER_DATA', '/assets/userdata/');
+define('PACKAGES', serialize($packages));
+define('STATES', serialize($states));
+define('ADMIN_NO_IMAGE', APPPATH . 'themes/admin/assets/images/no_image.jpg');
+?>

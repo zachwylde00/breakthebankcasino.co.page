@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1519360656;message_http://localhost/users/login|a:4:{s:7:"message";s:72:"ایمیل و رمز عبور وارد شده هم خوانی ندارد";s:4:"type";s:4:"fail";s:5:"title";s:35:"ورود به حساب کاربری";s:8:"link_url";s:11:"users/login";}__ci_vars|a:1:{s:36:"message_http://localhost/users/login";s:3:"new";}
