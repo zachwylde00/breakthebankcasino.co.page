@@ -1,8 +1,8 @@
 <?php
 $database = array();
-$database['hostname'] = 'localhost';
-$database['username'] = 'root';
-$database['password'] = '';
+$database['hostname'] = 'mysql.gang4bet.com';
+$database['username'] = 'alexlightning007';
+$database['password'] = 'kyckox-4heJto-wofsid';
 $database['database'] = 'gang4bet_max';
 $database['dbdriver'] = 'mysqli';
 $database['dbprefix'] = '';
@@ -14,6 +14,6 @@ $database['cachedir'] = '';
 $database['char_set'] = 'utf8';
 $database['dbcollat'] = 'utf8_general_ci';
 $database['swap_pre'] = '';
-$database['autoinit'] = false;
+$database['autoinit'] = true;
 $database['stricton'] = false;
 ?>
